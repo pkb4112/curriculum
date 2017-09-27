@@ -28,6 +28,8 @@ This lesson will tend to focus on understanding the programming side of Javascri
 *Submit a link to the github repo with your files in it here with a pull request.  Please include your partner's github handle somewhere in the description if they would like attribution*
 
 * Add your solution below this line!
+* [Chris's interactive challenge 1 solution](https://github.com/chrisauinmotion/projectEuler_challenge1) | [View in browser](https://chrisauinmotion.github.io/projectEuler_challenge1/)
+* [Alin Simion's solution to problem 1](https://github.com/alinsg/project-euler-problems)
 * [danhofer's interactive solutions](https://github.com/danhofer/project-euler) | [View in browser](https://danhofer.github.io/project-euler)
 * [dgwn's Solutions](https://github.com/dgwn/project-euler)
 * [Ed Magalhaes's Solutions for problems 1 and 2](https://github.com/EdMagal/OdinProject_JSBasic001)
@@ -527,7 +529,8 @@ This lesson will tend to focus on understanding the programming side of Javascri
 * [Santiago Rodríguez Solution & Project Euler Repo](https://github.com/santoxxcc/euler-project)
 * [Taras's Solutions (updating)](https://github.com/Staryj812/projectEuler) | [View in Browser](https://staryj812.github.io/projectEuler/)
 * [cedalukic's Solution](https://github.com/cedalukic/euler-project) | [View in Browser](https://cedalukic.github.io/euler-project)
-
+* [Nate W's Solution](https://github.com/obsessivenerds/Javascript_Project_Euler)
+* [Steve Yankson's Solution](https://github.com/samoaning/proj_euler_01)
 
 ### Additional Resources
 

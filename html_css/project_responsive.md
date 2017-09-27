@@ -22,6 +22,7 @@ The process will be quite similar to what we've done before.  At this point, you
 *Send us your solution so we can show others! Submit a link to the Github repo with your files in it by using any of the methods listed on the [contributing page](http://github.com/TheOdinProject/curriculum/blob/master/contributing.md).  See the [Google Homepage project](/web-development-101/html-css) for examples*
 
 * Add your solution below this line!
+* [Axel's solution](https://github.com/afuh/next-web) | [View in browser](http://next-web.surge.sh/)
 * [yilmazgunalp's solution](https://github.com/yilmazgunalp/next-web) | [View in browser](https://yilmazgunalp.github.io/next-web/)
 * [Leah Xia's solution](https://github.com/LeahXia/the-next-web.git) | [View in browser](http://leahxia.com/internal-links/the-next-web/index.html)
 * [Andrew's solution](https://github.com/andrewr224/The-Next-Web) | [View in browser](https://andrewr224.github.io/The-Next-Web/)
@@ -47,6 +48,7 @@ The process will be quite similar to what we've done before.  At this point, you
 * [Beth Rathbone's solution](https://github.com/bethrath/responsive-design) | [View in browser](http://htmlpreview.github.io/?https://github.com/bethrath/responsive-design/blob/master/index.html)
 * [husein ghafari's solution](https://github.com/hosghf/responsive-thenextweb) | [View in browser](https://htmlpreview.github.io/?https://github.com/hosghf/responsive-thenextweb/blob/master/index.html)
 * [Neil Cudden's solution](https://github.com/ncud4bloc/NextWeb/) | [View in browser](https://ncud4bloc.github.io/NextWeb/HTML.index.html)
+* [Matteo's solution] (https://github.com/naufragio/thenextweb) | [View in browser](https://naufragio.github.io/thenextweb/)
 
 ### Additional Resources
 
